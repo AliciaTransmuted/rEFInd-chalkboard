@@ -36,7 +36,9 @@ Other examples are in the `refind.conf` file.
 rEFInd-chalkboard notes
 -------------------------------
 
-September 1, 2018: Initial release of rEFInd-chalkboard.
+September 1, 2018: Initial release of rEFInd-chalkboard to DeviantArt.
+
+December 30, 2018: rEFInd-chalkboard theme uploaded to github.
 
 September 16, 2018: Second release of rEFInd-chalkboard.
 - This release increases all icon sizes to improve overall clarity and viewing ease.
