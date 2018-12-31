@@ -38,11 +38,11 @@ rEFInd-chalkboard notes
 
 September 1, 2018: Initial release of rEFInd-chalkboard to DeviantArt.
 
-December 30, 2018: rEFInd-chalkboard theme uploaded to github.
-
 September 16, 2018: Second release of rEFInd-chalkboard.
 - This release increases all icon sizes to improve overall clarity and viewing ease.
 - It replaces all of the icons, adding many additional icons in the process.
 - It replaces the selection icon image to fit in better with the theme.
 - The hand drawn font was redrawn to make it much more readable.
 - New screenshots were captured using my new VirtualBox test machine to allow for much improved sample screens.
+
+December 30, 2018: rEFInd-chalkboard theme uploaded to github.
