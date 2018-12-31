@@ -1,16 +1,8 @@
 # rEFInd-chalkboard
-A simple monochrome theme for the rEFInd boot manager
+A simple monochrome theme for the rEFInd UEFI boot manager
 
 ![Screenshot](https://i.imgur.com/ysFnjRY.png)
       
--------------------------------
-rEFInd-chalkboard
-A simple monochrome rEFInd theme
-September 16, 2018
-AliciaTransmuted
-https://www.deviantart.com/aliciatransmuted
--------------------------------
-
 [rEFInd](http://www.rodsbooks.com/refind/) is a boot manager for UEFI systems and scans for kernels & EFI at boot.
 
 ### Usage
