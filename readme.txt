@@ -16,7 +16,7 @@ https://www.deviantart.com/aliciatransmuted
 
  2. Create a folder called `themes` inside it, if it doesn't already exist
 
- 3. Clone this repository into the `themes` directory.
+ 3. Clone this repository into the `themes` directory as `themes/rEFInd-chalkboard`.
 
  4. To enable the theme add `include themes/rEFInd-chalkboard/theme.conf` at the end of `refind.conf`.
     
