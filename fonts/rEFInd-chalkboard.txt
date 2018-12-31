@@ -1,0 +1,24 @@
+---------------------------------------------------
+rEFInd-chalkboard font
+September 16, 2018
+AliciaTransmuted
+https://www.deviantart.com/aliciatransmuted
+---------------------------------------------------
+
+The included rEFInd-chalkboard font (rEFInd-chalkboard) is an original hand drawn font.
+Finding a suitable handwritten monospaced font, also called a fixed-pitch, fixed-width, or non-proportional font is challenging.
+Fortunatly, it was pretty straight forward to use an existing rEFInd png font as a base for rEFInd-chalkboard.png
+I recommend that you use rEFInd-chalkboard-112.png as your base file to allow for finer detailing, and then scale it down to proper width (28).
+Save the editing file at 112 pixels width to retain details!!!
+
+Feel free to use it as a base for other rEFInd theme projects.
+1. Import into Gimp, Krita, Inkscape, etc.
+2. Reduce opacity of original layer to about 50%.
+3. Create a transparent layer above the current layer.
+4. Increase magnification to about 800%.
+5. Hand trace your font over the original.
+   Using a tablet will, no doubt, give you cleaner results.
+   I did mine with a mouse... at 800%, it's pretty easy
+6. Play around with different brushes to give you different desired effects.
+   e.g. chalk, felt pen, dry erase marker, etc.
+   Sometimes low tech gives you exactly what you need...
