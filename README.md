@@ -1,6 +1,8 @@
 # rEFInd-chalkboard
 A simple monochrome theme for the rEFInd boot manager
 
+        rEFInd-chalkboard/preview.png
+      
 -------------------------------
 rEFInd-chalkboard
 A simple monochrome rEFInd theme
