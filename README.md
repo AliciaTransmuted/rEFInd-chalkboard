@@ -37,6 +37,7 @@ rEFInd-chalkboard notes
 -------------------------------
 
 September 1, 2018: Initial release of rEFInd-chalkboard to DeviantArt.
+- Chalkboard stock image: http://www.danieljenkinsacademy.com/chalkboard-backgrounds-free-download-pixelstalk-33/
 
 September 16, 2018: Second release of rEFInd-chalkboard to DeviantArt.
 - This release increases all icon sizes to improve overall clarity and viewing ease.
