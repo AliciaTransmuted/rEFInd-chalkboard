@@ -47,3 +47,5 @@ September 16, 2018: Second release of rEFInd-chalkboard to DeviantArt.
 - New screenshots were captured using my new VirtualBox test machine to allow for much improved sample screens.
 
 December 30, 2018: rEFInd-chalkboard theme uploaded to github.
+
+January 6, 2018: Added icon for Sparky Linux
