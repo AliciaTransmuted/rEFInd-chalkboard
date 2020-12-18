@@ -53,3 +53,5 @@ January 6, 2019: Added icons for Sparky Linux, added GameDrift and Lakka
 March 30, 2019: Added icons for Pop OS and Pisi Linux
 
 April 10, 2019: Added icons for Parrot Sec OS, PureOS, and Qubes OS
+
+December 18, 2020: Added new function icons func_bootorder.png and func_install.png
