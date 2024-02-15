@@ -63,5 +63,9 @@ The simplest way I have found to launch a Haiku desktop on a UEFI machine is to 
 
 February 14,2024: Added image of common folder setup for rEFInd using haiku_loader.efi in folder Haiku under primary folder EFI.
 
-*** Please note: These additions only work with the 64 bit version of the Haiku installer. It will NOT work with the 32 bit installer.
+*** Please note: These additions only work with the 64 bit version of the Haiku installer.
+
+*** Also note: You should update to the latest version of the 64 bit Haiku installer before you attempt installation.
+
+*** Please note: Installation will NOT work with the 32 bit installer of Haiku on a UEFI device.
 
