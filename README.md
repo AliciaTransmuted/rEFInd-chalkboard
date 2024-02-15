@@ -60,3 +60,8 @@ March 3, 2021: Added icon for Garuda Linux
 
 February 13,2024: Added haiku_loader.efi to enable launching the Haiku Operating System
 The simplest way I have found to launch a Haiku desktop on a UEFI machine is to setup rEFInd on a USB drive as Partition 1, so it launches first, set the UEFI to launch UEFI USB devices first, and make sure I have a folder called Haiku under EFI with the file haiku_loader.efi I just updated. That will find any Haiku builds you have on your system, or at least it should. It doesn't always work, for one reason or another. But it's pretty darn good, and it's nice to have Haiku on the rEFInd menu at last! I launch from a USB drive because it holds several key applications that I may require in the event of an emergency, such as a complete system failure.
+
+February 14,2024: Added image of common folder setup for rEFInd using haiku_loader.efi in folder Haiku under primary folder EFI.
+
+*** Please note: These additions only work with the 64 bit version of the Haiku installer. It will NOT work with the 32 bit installer.
+
